@@ -1,0 +1,8 @@
+--prompt task level , run it on claude 
+----Prompt below --
+
+Generate the prompt for react & nextjs project, break into task level prompt for claude code.
+
+Create barrier between each prompt to avoid code conflict. 
+
+Reuse code, and keep the code DRY.
